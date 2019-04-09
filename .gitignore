@@ -1,0 +1,6 @@
+*.key
+.DS_Store
+._*
+.vscode/
+key/*
+config/*
