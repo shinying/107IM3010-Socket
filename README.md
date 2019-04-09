@@ -58,14 +58,16 @@ make v      # print all messages and certificates
 
 characters in lower cases are dispensable
 
-* Connect \[ip\] \[port\]       connect to \[ip\]:\[port\] (default 127.0.0.1:8080)
-* Register &lt;name&gt; &lt;amount&gt;  register a user with name &lt;name&gt; and balance &lt;amount&gt;
-* LOgin &lt;name&gt; &lt;port&gt;       login with name &lt;name&gt; and port &lt;port&gt;
-* Pay &lt;user name&gt; &lt;amount&gt;  pay &lt;user name&gt; &lt;amount&gt; dollars
-* LIst                      list all online users
-* Help                      list all available commands
-* Disconnect                close the currect connection
-* Ctrl-D                    disconnect and quit
+```text
+• Connect [ip] [port]       connect to [ip]:[port] (default 127.0.0.1:8080)
+• Register <name> <amount>  register a user with name <name> and balance <amount>
+• LOgin <name> <port>       login with name <name> and port <port>
+• Pay <user name> <amount>  pay <user name> <amount> dollars
+• LIst                      list all online users
+• Help                      list all available commands
+• Disconnect                close the currect connection
+• Ctrl-D                    disconnect and quit
+```
 
 ### Server
 
