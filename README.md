@@ -1,6 +1,6 @@
-# Socket Programming
+# Micro Payment System
 
-[Final Project](https://ceiba.ntu.edu.tw/course/5c74c2/hw/2018-Programming%20Assignment.pdf) of IM3010 Computer Network and Applicaton
+[Final Project](https://ceiba.ntu.edu.tw/course/5c74c2/hw/2018-Programming%20Assignment.pdf) of NTU IM3010 Computer Network and Application
 
 ## Introduction
 
