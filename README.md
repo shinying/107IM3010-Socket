@@ -10,8 +10,6 @@ A secure P2P micropayment system implmented in C++, Unix socket API and openSSL,
 2. Instant communication between clients and the server
 3. Individually encrypted communication between clients and the server
 
-![flow](https://github.com/shinying/Socket/blob/master/flow.jpeg)
-
 ## Environment
 
 g++ 8.2.0 with C++ 11
